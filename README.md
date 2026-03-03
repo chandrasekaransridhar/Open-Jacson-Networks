@@ -24,7 +24,7 @@ An open Jackson network is a system of k service stations where station i (i = 1
 **_Name : SRIDHAR C<br>
  Reg No : 212225040425 <br>
  Slot Name : T1-I5<br>
- [colab link](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=kF5sAZOZGVe4&line=38&uniqifier=1)_**
+ [colab link](https://colab.research.google.com/drive/1I09RnTLiEXcuVkv24NomCccpRD65iaa0#scrollTo=gwrRxHGzRUGS&line=38&uniqifier=1)_**
 
 
 ```py
